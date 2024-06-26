@@ -1,1 +1,0 @@
-/mnt/c/Users/gjbet/Desktop/My_projects/angular-wasm-example-project/projects/wasm-code/src/lib/rust-lib/target/wasm32-unknown-unknown/release/rust_lib.wasm: /mnt/c/Users/gjbet/Desktop/My_projects/angular-wasm-example-project/projects/wasm-code/src/lib/rust-lib/src/lib.rs
